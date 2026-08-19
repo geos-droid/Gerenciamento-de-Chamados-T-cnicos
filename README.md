@@ -1,1 +1,1 @@
-# Gerenciamento-de-Chamados-T-cnicos
+# Gerenciamento-de-Chamados-Técnicos
